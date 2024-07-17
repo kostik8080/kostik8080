@@ -27,7 +27,7 @@
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/kostik80_80" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kostik8080" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://vk.com/id11498132" target="_blank" rel="noreferrer">
-  <img src="https://yandex.ru/images/search?pos=17&from=tabbar&img_url=https%3A%2F%2Fangelinaspace.ru%2Fwp-content%2Fuploads%2F2024%2F03%2Fvk3.png&text=картинка+vk+в+svg&rpt=simage&lr=47" alt="VK Icon" width="32" height="32">
+  <img src="https://celes.club/pictures/uploads/posts/2023-06/1687186401_celes-club-p-raskraska-znachki-risunok-vkontakte-3.png" alt="VK Icon" width="32" height="32">
 </a>
 </p>
 
