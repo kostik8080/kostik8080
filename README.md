@@ -27,7 +27,7 @@
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/kostik80_80" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kostik8080" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://vk.com/id11498132" target="_blank" rel="noreferrer">
-  <img src="https://api.bashinform.ru/attachments/e4fc24c9d21ee0b96789b7bea672057d10fa9f5a/store/crop/13/0/906/512/1600/0/0/0427b1c9b62f1ab2ad8776d6da06ce512de40bf4d59d2f14596f416afd46/png-transparent-vkontakte-computer-icons-social-media-social-media-electric-blue-internet.png" alt="VK Icon" width="52" height="52">
+  <img src="https://avtovec.ru/templates/avtovec-template/images/vk.png" alt="VK Icon" width="32" height="32">
 </a>
 </p>
 
